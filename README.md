@@ -1,4 +1,4 @@
-# TWRP Tree for Poco F3 GT / K40 Gaming
+# klengenharia
 * Brand : POCO/Xiaomi
 * SoC Vendor : Mediatek
 * Chipset : Dimensity 1200
